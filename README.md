@@ -1,6 +1,9 @@
 <div align="left">
 
-Language: English
+Language: English | [Tools & Plugins](https://ielts-stud.ai/en/tools) | [Roadmap](https://ielts-stud.ai/en/roadmap) | [Feedback](https://github.com/IELTS-STUDY-AI/IELTS-STUDY-AI/issues) | [Tools AI Transalte Billingua](https://github.com/gstearmit/bilingual_book_maker.git)
+
+https://github.com/gstearmit/bilingual_book_maker.git
+
 
 </div>
 
