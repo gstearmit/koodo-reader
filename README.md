@@ -1,7 +1,7 @@
 <div align="left">
 
-[简体中文](https://github.com/koodo-reader/koodo-reader/blob/master/README_cn.md) | [हिंदी](https://github.com/koodo-reader/koodo-reader/blob/master/README_hi.md)
-|[Português](https://github.com/koodo-reader/koodo-reader/blob/master/README_pt.md) | English
+[简体中文](https://github.com/gstearmit/koodo-reader/blob/master/README_cn.md) | [हिंदी](https://github.com/gstearmit/koodo-reader/blob/master/README_hi.md)
+|[Português](https://github.com/gstearmit/koodo-reader/blob/master/README_pt.md) | English
 
 </div>
 
@@ -58,7 +58,7 @@
 
 - Desktop Version:
   - Stable Version (Recommended): [Download](https://ielts-stud.ai/en)
-  - Developer version: [Download](https://github.com/koodo-reader/koodo-reader/releases/latest) ( With new feature and bug fix, but may induce some unknown bugs)
+  - Developer version: [Download](https://github.com/gstearmit/koodo-reader/releases/latest) ( With new feature and bug fix, but may induce some unknown bugs)
 - Web Version：[Preview](https://web.ielts-stud.ai)
 - Install with Scoop:
 
@@ -132,7 +132,7 @@ Make sure that you have installed yarn and git
 1. Download the repo
 
    ```
-   git clone https://github.com/koodo-reader/koodo-reader.git
+   git clone https://github.com/gstearmit/koodo-reader.git
    ```
 
 2. Enter desktop mode
@@ -159,7 +159,7 @@ Make sure that you have installed yarn and git
 
 3. Translate the terms to your target language based on the given English reference
 
-4. Sumbit the translation file or just translation snippets based on the amount of your translation to [this link](https://github.com/koodo-reader/koodo-reader/issues/new?assignees=&labels=submit+translation&projects=&template=3_submit_translation.yml). Pull request is also welcomed.
+4. Sumbit the translation file or just translation snippets based on the amount of your translation to [this link](https://github.com/gstearmit/koodo-reader/issues/new?assignees=&labels=submit+translation&projects=&template=3_submit_translation.yml). Pull request is also welcomed.
 
 | Language(A-Z)   | Code  | View                                                |
 | --------------- | ----- | --------------------------------------------------- |
@@ -205,4 +205,4 @@ Make sure that you have installed yarn and git
 
 1. If you can't find your target language from the above list, Download the Engish source file from [this link](./src/assets/locales/en/translation.json)
 
-2. When you finish translation, submit the source file to [this link](https://github.com/koodo-reader/koodo-reader/issues/new?assignees=&labels=submit+translation&projects=&template=3_submit_translation.yml). Pull request is also welcomed.
+2. When you finish translation, submit the source file to [this link](https://github.com/gstearmit/koodo-reader/issues/new?assignees=&labels=submit+translation&projects=&template=3_submit_translation.yml). Pull request is also welcomed.

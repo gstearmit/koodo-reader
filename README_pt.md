@@ -1,6 +1,6 @@
 <div align="left">
 
-[简体中文](https://github.com/koodo-reader/koodo-reader/blob/master/README_cn.md) | [हिंदी](https://github.com/koodo-reader/koodo-reader/blob/master/README_hi.md) | Português | [English](https://github.com/koodo-reader/koodo-reader/blob/master/README.md)
+[简体中文](https://github.com/gstearmit/koodo-reader/blob/master/README_cn.md) | [हिंदी](https://github.com/gstearmit/koodo-reader/blob/master/README_hi.md) | Português | [English](https://github.com/gstearmit/koodo-reader/blob/master/README.md)
 
 </div>
 
@@ -58,7 +58,7 @@
 
 - Versão para computador:
   - Versão estável (Recomendada): [Baixar](https://ielts-stud.ai/en)
-  - Versão do desenvolvedor: [Baixar](https://github.com/koodo-reader/koodo-reader/releases/latest) ( Com novos recursos e correção de bugs, mas podendo ainda conter alguns problemas desconhecidos)
+  - Versão do desenvolvedor: [Baixar](https://github.com/gstearmit/koodo-reader/releases/latest) ( Com novos recursos e correção de bugs, mas podendo ainda conter alguns problemas desconhecidos)
 - Versão para Web：[Pré-visualizar](https://web.ielts-stud.ai)
 - Instalar com o Scoop:
 
@@ -132,7 +132,7 @@ Certifique-se de ter instalado yarn e git, a versão.
 1. Baixe o repositório
 
    ```
-   git clone https://github.com/koodo-reader/koodo-reader.git
+   git clone https://github.com/gstearmit/koodo-reader.git
    ```
 
 2. Entre no modo desktop

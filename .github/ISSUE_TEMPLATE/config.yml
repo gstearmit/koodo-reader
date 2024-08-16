@@ -3,6 +3,6 @@ contact_links:
   - name: Bug Report
     url: https://ielts-stud.ai/en/support
     about: Things don't work as intended
-  - name: 提交 Bug
-    url: https://ielts-stud.ai/zh/support
-    about: 我在使用 IELTS STUDY AI 时遇到了Bug
+  - name: Bug
+    url: https://ielts-stud.ai/vi/support
+    about: IELTS STUDY AI Bug

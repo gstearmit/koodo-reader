@@ -1,6 +1,6 @@
 <div align="left">
 
-[简体中文](https://github.com/koodo-reader/koodo-reader/blob/master/README_cn.md) | [English](https://github.com/koodo-reader/koodo-reader/blob/master/README.md) | हिंदी |[Português](https://github.com/koodo-reader/koodo-reader/blob/master/README_pt.md)
+[简体中文](https://github.com/gstearmit/koodo-reader/blob/master/README_cn.md) | [English](https://github.com/gstearmit/koodo-reader/blob/master/README.md) | हिंदी |[Português](https://github.com/gstearmit/koodo-reader/blob/master/README_pt.md)
 
 </div>
 
@@ -57,7 +57,7 @@
 
 - डेस्कटॉप संस्करण:
   - स्थिर संस्करण (अनुशंसित): [डाउनलोड](https://ielts-stud.ai/en)
-  - डेवलपर संस्करण: [डाउनलोड](https://github.com/koodo-reader/koodo-reader/releases/latest) ( नई सुविधा और बग फिक्स के साथ, लेकिन कुछ अज्ञात बग उत्पन्न हो सकते हैं)
+  - डेवलपर संस्करण: [डाउनलोड](https://github.com/gstearmit/koodo-reader/releases/latest) ( नई सुविधा और बग फिक्स के साथ, लेकिन कुछ अज्ञात बग उत्पन्न हो सकते हैं)
 - वेब संस्करण：[समीक्षा](https://web.ielts-stud.ai)
 - स्कूप के साथ इंस्टाल करें:
 
@@ -131,7 +131,7 @@ flatpak run io.github.troyeguo.koodo-reader
 1. रेपो डाउनलोड करें
 
    ```
-   git clone https://github.com/koodo-reader/koodo-reader.git
+   git clone https://github.com/gstearmit/koodo-reader.git
    ```
 
 2. डेस्कटॉप मोड में प्रवेश करें
