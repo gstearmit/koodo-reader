@@ -1,12 +1,11 @@
 <div align="left">
 
-[简体中文](https://github.com/gstearmit/koodo-reader/blob/master/README_cn.md) | [हिंदी](https://github.com/gstearmit/koodo-reader/blob/master/README_hi.md)
-|[Português](https://github.com/gstearmit/koodo-reader/blob/master/README_pt.md) | English
+Language: English
 
 </div>
 
 <div align="center" >
-  <img src="https://dl.ielts-stud.ai/screenshots/logo.png" width="96px" height="96px"/>
+  <img src="./ielts_stady_ai_images/logo3.png" width="96px" height="96px"/>
 </div>
 
 <h1 align="center">
@@ -26,10 +25,10 @@
 
 <div align="center">
   <br/>
-  <kbd><img src="https://dl.ielts-stud.ai/screenshots/1.png" width="800px"></kbd>
+  <kbd><img src="./ielts_stady_ai_images/1.png" width="800px"></kbd>
   <br/>
   <br/>
-  <kbd><img src="https://dl.ielts-stud.ai/screenshots/5.png" width="800px"></kbd>
+  <kbd><img src="./ielts_stady_ai_images/5.png" width="800px"></kbd>
   <br/>
 </div>
 
@@ -101,25 +100,25 @@ flatpak run io.github.troyeguo.koodo-reader
   <b>List mode</b>
   <br/>
   <br/>
-  <kbd><img src="https://dl.ielts-stud.ai/screenshots/2.png" width="800px"></kbd>
+  <kbd><img src="./ielts_stady_ai_images/2.png" width="800px"></kbd>
   <br/>
   <br/>
   <b>Cover mode</b>
   <br/>
   <br/>
-  <kbd><img src="https://dl.ielts-stud.ai/screenshots/3.png" width="800px"></kbd>
+  <kbd><img src="./ielts_stady_ai_images/3.png" width="800px"></kbd>
   <br/>
   <br/>
   <b>Reader menu</b>
   <br/>
   <br/>
-  <kbd><img src="https://dl.ielts-stud.ai/screenshots/6.png" width="800px"></kbd>
+  <kbd><img src="./ielts_stady_ai_images/6.png" width="800px"></kbd>
   <br/>
   <br/>
   <b>Dark mode</b>
   <br/>
   <br/>
-  <kbd><img src="https://dl.ielts-stud.ai/screenshots/4.png" width="800px"></kbd>
+  <kbd><img src="./ielts_stady_ai_images/4.png" width="800px"></kbd>
   <br/>
 </div>
 
